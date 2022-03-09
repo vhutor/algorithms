@@ -1,7 +1,7 @@
 # algorithms
-This repository is created to learn, share and store useful information and links to study the topic, cool quizzes and code to train and learn.
+This repository is created to learn, share and store useful information and links to study the topic about algorithms and data structures.
 
-All code is written in Java and I provided to every quiz the link where I have found it and my solution.
+There are folders for every essential data structures and algorithms. All code is written in **Java** and the links are provided to every quiz.
 
 
 **Link to courses that was used**:
