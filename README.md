@@ -27,3 +27,8 @@ There are folders for every essential data structures and algorithms. All code i
 - [Visualization tool](https://visualgo.net/en/bst)
 - [Big(O) Algorithms](https://www.bigocheatsheet.com/)
 - [Graph example (internet)](https://internet-map.net/)
+
+**Link to my profiles**:
+- [LeetCode](https://leetcode.com/vhutor/)
+- [GitHub](https://github.com/vhutor)
+- [LinkedIn](https://www.linkedin.com/in/valeriia-hutor/)
