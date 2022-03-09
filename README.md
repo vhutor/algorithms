@@ -1,6 +1,9 @@
 # algorithms
 This repository is created to learn, share and store useful information and links to study the topic, cool quizzes and code to train and learn.
 
+All code is written in Java and I provided to every quiz the link where I have found it and my solution.
+
+
 **Link to courses that was used**:
 - [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/
   )
