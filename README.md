@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 This repository is created to learn, share and store useful information and links to study the topic about algorithms and data structures.
 
 There are folders for every essential data structures and algorithms. All code is written in **Java** and the links are provided to every quiz.
