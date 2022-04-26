@@ -13,6 +13,7 @@ There are folders for every essential data structures and algorithms. All code i
 
 **Link to books that were used**:
 - [Cracking the coding interview ](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [Algorithms](https://algs4.cs.princeton.edu/home/)
 
 **Link to youtube channels that were used**:
 - [Algotester](https://www.youtube.com/channel/UCbWUQ3uIHWCkAED4ELOd1-Q)
@@ -27,8 +28,3 @@ There are folders for every essential data structures and algorithms. All code i
 - [Visualization tool](https://visualgo.net/en/bst)
 - [Big(O) Algorithms](https://www.bigocheatsheet.com/)
 - [Graph example (internet)](https://internet-map.net/)
-
-**Link to my profiles**:
-- [LeetCode](https://leetcode.com/vhutor/)
-- [GitHub](https://github.com/vhutor)
-- [LinkedIn](https://www.linkedin.com/in/valeriia-hutor/)
